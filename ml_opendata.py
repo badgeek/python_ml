@@ -53,4 +53,4 @@ def createDataSet():
 	labels = ['A','A','B','B']
 	return group, labels
 
-
+test , tost  = createDataSet()
